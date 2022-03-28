@@ -3,3 +3,5 @@ frontend/.DS_Store
 frontend/dist
 frontend/dist-ssr
 frontend/*.local
+
+backend/node_modules
